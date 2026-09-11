@@ -368,7 +368,7 @@ const About = () => {
 
 
                 <li>
-                  Annotated native tobacco plant imagery on a custom-built website platform, labeling plants by health status 
+                  Annotated native tobacco plant imagery on a custom built website platform, labeling plants by health status 
                   to verify AI model accuracy in automated disease detection
                 </li>
 
