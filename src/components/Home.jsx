@@ -71,9 +71,9 @@ const Home = () => {
             text-gray-300
             "
           >
-            Quality Assurance
+            
             <span className="text-cyan-400">
-              .
+              
             </span>
           </h2>
 
